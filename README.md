@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olist ETL Pipeline – Data Cleaning & Integration
 
 ### By: Sayeh Nelson | Data Analyst
@@ -131,6 +132,7 @@ Thank you for reading! 🌞
 
 Connect with me!
 LinkedIn: www.linkedin.com/in/sayeh-nelson-814941349
+
 
 
 
