@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Olist ETL Pipeline – Data Cleaning & Integration
 
 ### By: Sayeh Nelson | Data Analyst
